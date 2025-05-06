@@ -9,9 +9,8 @@
   },
   "dependencies": {
     "@vercel/node": "^3.0.0",
-    "axios": "^1.6.0"
-  },
-  "devDependencies": {
+    "axios": "^1.6.0",
     "typescript": "^5.0.0"
-  }
+  },
+  "devDependencies": {}
 }
