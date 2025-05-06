@@ -8,9 +8,8 @@
     "start": "vercel start"
   },
   "dependencies": {
-    "@vercel/node": "^3.0.0",
+    "@vercel/node": "^2.3.0",
     "axios": "^1.6.0",
     "typescript": "^5.0.0"
-  },
-  "devDependencies": {}
+  }
 }
